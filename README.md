@@ -91,12 +91,14 @@ Based on team discussions and reflection during development, several improvement
 
 This group project demonstrates how Software Engineering principles and C++ programming concepts can be applied collaboratively to solve a real-world problem in an academic setting. By working as a team, the project members successfully analyzed user needs, designed an object-oriented solution, and implemented a functional Digital Library Management System using file handling techniques.
 The project not only strengthened technical skills in C++ and OOP but also improved teamwork, communication, and problem-solving abilities. With additional enhancements and continued collaboration, the system has the potential to evolve into a more advanced and fully featured digital library platform.
+
 13. How to Run the System
 Step 1. Open your preferred C++ IDE
 Step 2. Create a new source file named DigitalLibrary.cpp
 Step 3. Copy and paste the provided source code into the file
 Step 4. Compile and run the program
 Step 5. Register a new user and log in to access the system features
+
 14. Sample Output
 ===== Welcome to Mekelle University Digital Library =====
 1. Register User
