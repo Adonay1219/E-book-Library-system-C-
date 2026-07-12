@@ -5,7 +5,7 @@ ________________________________________
 •	In modern academic environments, managing digital learning resources efficiently is a shared responsibility that requires both technical and organizational solutions. At Mekelle University Library, students and academic staff often experience difficulties when searching for and organizing e-books. These challenges increase manual workload, slow down access to learning materials, and reduce overall system reliability.
 •	As a group-based Software Engineering assignment, this project was developed collaboratively to address these challenges. The team designed and implemented a Digital Library (E-Book) Management System using C++. Throughout the project, team members worked together to analyze the problem, design the system, implement features, and document the solution. The system applies Object-Oriented Programming (OOP) principles and file handling techniques to manage e-book records and user authentication in a clear and structured manner.
 2. Problem Statement	
-	The current approach to handling digital library resources has several limitations:
++	The current approach to handling digital library resources has several limitations:
 •	E-books are not stored in a well-structured manner
 •	Searching for specific resources is inefficient
 •	There is no user authentication mechanism
@@ -13,7 +13,7 @@ ________________________________________
 •	As a result, users experience poor accessibility and unnecessary delays when trying to find relevant digital materials.
 
 
-	This system solves these problems by introducing: 
++	This system solves these problems by introducing: 
 
 Centralized storage of e-books :
 •	Easy search and view functionality 
@@ -26,7 +26,7 @@ General Objective:
 Specific Objectives: 
 •	Allow users to register and log in securely.
 •	Store e-book information permanently using files.
-•	Enable users to search and view available e-books, Add new e-books.
+•	Enable users to search and view available e-books. Add new e-books.
 •	Apply core object-oriented programming concepts in practice.
 4. Scope of the System
 Included Features
@@ -57,7 +57,7 @@ User Class
 
 •	Attributes: user_id, user_type, department
 •	Purpose: Handles user registration and login authentication
-	This structure helps maintain clean, modular, and reusable code.
++	This structure helps maintain clean, modular, and reusable code.
 7. Functional Requirements
 •	The system shall allow new users to register
 •	The system shall authenticate registered users during login
