@@ -92,6 +92,15 @@ Based on team discussions and reflection during development, several improvement
 This group project demonstrates how Software Engineering principles and C++ programming concepts can be applied collaboratively to solve a real-world problem in an academic setting. By working as a team, the project members successfully analyzed user needs, designed an object-oriented solution, and implemented a functional Digital Library Management System using file handling techniques.
 The project not only strengthened technical skills in C++ and OOP but also improved teamwork, communication, and problem-solving abilities. With additional enhancements and continued collaboration, the system has the potential to evolve into a more advanced and fully featured digital library platform.
 
+# Front-End Prototype
+
+The `prototype/` directory contains the HTML front-end prototype created for the Digital Library (E-Book) Management System. The `prototype/library.html` file presents an initial design of the system's user interface.
+
+This front-end prototype is part of the broader digital library project and is separate from the current C++ console-based implementation. It serves as a visual prototype for a potential graphical interface and does not imply that the HTML interface is integrated with the C++ program.
+
+# Prototype File
+- "prototype/library.html" — HTML front-end prototype of the digital library system.
+
 13. How to Run the System
 Step 1. Open your preferred C++ IDE
 Step 2. Create a new source file named DigitalLibrary.cpp
